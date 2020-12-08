@@ -1,3 +1,7 @@
+文档：[https://jiankunking.com/kubernetes-client-go-how-to-make-a-web-terminal.html](https://jiankunking.com/kubernetes-client-go-how-to-make-a-web-terminal.html)
+
+
+
 本项目使用 beego + websocket 进行开发
 
 ```
